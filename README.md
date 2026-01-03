@@ -15,6 +15,9 @@ Used CSS for minimalist User Interface.
 * JavaScript (ES6) : Cleaner syntax and better structure to applications.
 * CSS : Enhancing the design.
 
+## Snapshot of App :
+![Timer App Screenshot](timer.png.png)
+
 ## Getting Started
 
 ### 1. Clone the repository
